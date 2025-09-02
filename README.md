@@ -30,9 +30,6 @@
 
 ![Calculator Screenshot](screenshot.png)
 
-
-✅ Works out of the box (Tkinter is included with Python on Windows & macOS).
-
 📚 How It Works
 
 - Tkinter manages the window, buttons, and layout.

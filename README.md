@@ -2,29 +2,29 @@
 
 - A clean and simple calculator built with Python Tkinter.
 
-Dark gray number buttons and bright orange operator buttons 🎨
+- Dark gray number buttons and bright orange operator buttons 🎨
 
-Keyboard support (type directly, use Enter/Backspace/Escape) ⌨️
+- Keyboard support (type directly, use Enter/Backspace/Escape) ⌨️
 
-Safe expression evaluation using Python’s ast module ✅
+- Safe expression evaluation using Python’s ast module ✅
 
-Supports parentheses, decimals, powers, and modulus
+- Supports parentheses, decimals, powers, and modulus
 
 🚀 Features
 
-GUI built with Tkinter (no extra installs needed)
+- GUI built with Tkinter (no extra installs needed)
 
-Safe math parsing (no eval, prevents unsafe code execution)
+- Safe math parsing (no eval, prevents unsafe code execution)
 
-Keyboard shortcuts
+- Keyboard shortcuts
 
-Enter / Numpad Enter → =
+- - Enter / Numpad Enter → =
 
-Backspace → ⌫
+- - Backspace → ⌫
 
-Escape → Clear
+- - Escape → Clear
 
-Operators supported: + - * / % ** ( )
+- - Operators supported: + - * / % ** ( )
 
 📸 Screenshot
 

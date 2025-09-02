@@ -28,8 +28,6 @@ Operators supported: + - * / % ** ( )
 
 📸 Screenshot
 
-(Add a screenshot by saving an image in your project folder as screenshot.png and uncommenting the line below)
-
 ![Calculator Screenshot](screenshot.png)
 
 ⚡ Installation & Run

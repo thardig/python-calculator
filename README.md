@@ -1,6 +1,6 @@
 🖩 Python GUI Calculator
 
-A clean and simple calculator built with Python Tkinter.
+- A clean and simple calculator built with Python Tkinter.
 
 Dark gray number buttons and bright orange operator buttons 🎨
 

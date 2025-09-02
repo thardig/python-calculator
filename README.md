@@ -30,47 +30,29 @@
 
 ![Calculator Screenshot](screenshot.png)
 
-⚡ Installation & Run
-
-Clone the repo:
-
-git clone https://github.com/YOUR-USERNAME/python-calculator.git
-cd python-calculator
-
-
-Run the program:
-
-python calculator.py
-
 
 ✅ Works out of the box (Tkinter is included with Python on Windows & macOS).
 
-🛠️ Project Structure
-python-calculator/
-│── calculator.py   # Main application
-│── README.md       # Project documentation
-└── screenshot.png  # (Optional) Example UI image
-
 📚 How It Works
 
-Tkinter manages the window, buttons, and layout.
+- Tkinter manages the window, buttons, and layout.
 
-AST (Abstract Syntax Tree) parses math expressions safely.
+- AST (Abstract Syntax Tree) parses math expressions safely.
 
-Button grid is created dynamically for digits and operators.
+- Button grid is created dynamically for digits and operators.
 
-Custom colors distinguish numbers (dark gray) and operators (orange).
+- Custom colors distinguish numbers (dark gray) and operators (orange).
 
 🔮 Future Improvements
 
-Dark mode toggle 🌙
+- Dark mode toggle 🌙
 
-Calculation history panel 📜
+- Calculation history panel 📜
 
-Memory buttons (M+, M-, MR, MC) 💾
+- Memory buttons (M+, M-, MR, MC) 💾
 
-Hover effects for modern UI ✨
+- Hover effects for modern UI ✨
 
 👨‍💻 Author
 
-Made with ❤️ in Python by Trevor Hardig
+Made in Python by Trevor Hardig

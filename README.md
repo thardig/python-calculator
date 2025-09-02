@@ -18,13 +18,13 @@
 
 - Keyboard shortcuts
 
-- - Enter / Numpad Enter → =
+  - Enter / Numpad Enter → =
 
-- - Backspace → ⌫
+  - Backspace → ⌫
 
-- - Escape → Clear
+  - Escape → Clear
 
-- - Operators supported: + - * / % ** ( )
+  - Operators supported: + - * / % ** ( )
 
 📸 Screenshot
 
